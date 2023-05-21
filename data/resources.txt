@@ -1,0 +1,4 @@
+https://www.scirp.org/journal/paperinformation.aspx?paperid=95655
+https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290
+https://quantifyinghealth.com/interpret-logistic-regression-coefficients/
+https://stats.oarc.ucla.edu/r/dae/logit-regression/
